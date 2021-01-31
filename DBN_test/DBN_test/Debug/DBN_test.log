@@ -1,0 +1,5 @@
+﻿  test.cpp
+c:\users\axteng\source\repos\dbnofcsdn\dbnofcsdn\test.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\axteng\source\repos\dbnofcsdn\dbnofcsdn\test.cpp(75): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\axteng\source\repos\dbnofcsdn\dbnofcsdn\test.cpp(150): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  DBN_test.vcxproj -> C:\Users\Axteng\Desktop\DBN_test\Debug\DBN_test.exe
